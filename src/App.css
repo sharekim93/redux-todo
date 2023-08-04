@@ -1,3 +1,12 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.todoTable {
+  margin: 20px;
+  background-color: #ffffff;
+  border: #ffffff solid 1px;
 }
